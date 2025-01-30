@@ -1,0 +1,8 @@
+speechrecognition
+pyttsx3
+openai
+python-nmap
+scikit-learn
+pandas
+opencv-python
+flask
