@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @abhijeetAI203
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Basic Python Concepts Assignment
 
-<!---
-abhijeetAI203/abhijeetAI203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Task 1: Math Operations
+- File: `math_operations.py`
+- Performs addition, subtraction, multiplication, and division on two numbers
+
+## Task 2: Personalized Greeting
+- File: `greeting.py`
+- Creates a greeting message using first and last name
+
